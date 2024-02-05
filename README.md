@@ -8,4 +8,4 @@ key Highlights:
 Colloborated with fellow stu
 
 Excel link:https://in.docworkspace.com/d/sIFvYxILwAZLWg64G
-PDF link:https://drive.google.com/drive/folders/1VskqnzP86TjTrCeJlAghnEBUgy_PKonq?usp=sharing
+PDF link:
