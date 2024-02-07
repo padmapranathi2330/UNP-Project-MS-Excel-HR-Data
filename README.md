@@ -1,8 +1,8 @@
 # UNP-Project-MS-Excel-HR-Data
 
-completed this project of my MS Excel as an value added course with United Network Of Professionals (UNP).
+Completed this project of my MS Excel as an Value Added Course with United Network Of Professionals (UNP).
 
-key Highlights:
+Key Highlights:
 
 1.Implemented sophisticated analysis techniques to derive in-depth insights from HR attrition data.
 
@@ -14,5 +14,6 @@ key Highlights:
 
 5.Implemented interactive pivot tables to facilitate dynamic exploration of HR data, enabling users to filter and analyze information based on specific criteria.
 
+PDF link:https://drive.google.com/file/d/1v5jXHK09ySphok9fF2OLsP-oxRbnLGSm/view?usp=sharing
+
 Excel link:https://1drv.ms/x/s!AmlHRocWo57zgUq12KAilv_IiOPK
-PDF link:https://drive.google.com/drive/folders/1zJJ_dtSUaRP7JXIQsUvQEzu5NtoYv4pr?usp=sharing
